@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quratulainkhan from Pakistan. I am interested in web development, I really enjoy learning languages HTML, CSS and JS, as well as working in WordPress.
 --->
-[![stats-card](https://Quratulainkhan146-stats-card.herokuapp.com/svg?user=Quratulainkhan146)](https://github.com/Quratulainkhan146/stats-card)
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=Quratulainkhan146&theme=dark)](https://github.com/Quratulainkhan146/stats-card)
 ### Hi there 👋, Quratulain
 #### Development
 ![Development](https://github.com/Quratulainkhan146/Quratulainkhan146.git)
