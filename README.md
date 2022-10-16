@@ -7,7 +7,7 @@ I am interested in web development, I really enjoy learning languages HTML, CSS,
 Skills:  JS / HTML / CSS
 
 
-<img src='‪C:\Users\abc\Pictures\profile.jpg' alt='github' height='40' width='60'>
+<img src='‪311517763_6191759454174575_4438985669061627687_n.jpg' alt='github' height='40' width='60'>
 
 
 
